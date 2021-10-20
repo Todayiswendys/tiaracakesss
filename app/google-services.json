@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "769575353376",
+    "project_id": "tiaracake-95ece",
+    "storage_bucket": "tiaracake-95ece.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769575353376:android:ae2dd6c90db49335c7d045",
+        "android_client_info": {
+          "package_name": "com.example.TiaraCakeApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769575353376-8om1924tacqcs1dhdf2d72ata27nh51q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUgBHyINdPQHwT7PGEkIM98_Q6nOcjPKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769575353376-8om1924tacqcs1dhdf2d72ata27nh51q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
